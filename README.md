@@ -1,5 +1,4 @@
-# Developing_Data_Products_Using_Shiny
-Developing Data Products Using Shiny
+# Developing Data Products Using Shiny
 
 ### Welcome to US Weather Storm Database Explorer
 
