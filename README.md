@@ -2,7 +2,7 @@
 
 ### Welcome to US Weather Storm Database Explorer Application
 
-.. The data for this application comes from the U.S. National Oceanic and Atmospheric Administration's (NOAA) storm database. The data was recorded from 1993 to 2011. 
+* The data for this application comes from the U.S. National Oceanic and Atmospheric Administration's (NOAA) storm database. The data was recorded from 1993 to 2011. 
 
 .. The Dataset has been obtained from [the Coursera Site](https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2FStormData.csv.bz2)
 
